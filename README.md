@@ -6,15 +6,11 @@
 **AbdullahSanoosi/abdullahsanoosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a Skin Disease Detection Applicaton
+- 🔭 I’m currently working on [GridBeat](https://github.com/CodesBySA/GridBeat-Web), an F1 companion app with live timing, telemetry, standings/results history, driver & constructor profiles, circuit guides, and a 3D car viewer — and Tadhkir, a Flutter app
 - 🌱 I’m currently learning Flutter, NodeJS, technologies related to Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on
 - 💬 Ask me about my experiences, visit [LinkedIn](https://www.linkedin.com/in/abdullah-sanoosi/)
-- :page_with_curl: Read more about my projects: [abdullahsanoosi.com](https://abdullahsanoosi.com)
 - 📫 How to reach me:- abdullahsanoosi100@gmail.com
-- ⚡ Fun fact: I love Rubik's cube, Ps5 and Formula 1
+- ⚡ Fun fact: I love Rubik's cube, Ps5 and Formula 1 — which is basically why GridBeat exists
 
   
 🔗 Connect with me
@@ -34,7 +30,12 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://dart.dev" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+<a href="https://supabase.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -43,4 +44,12 @@ Here are some ideas to get you started:
 <a href="https://github.com//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd/learn/get-started/what-is-adobe-xd-used-for.html" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/adobexd.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/davinci-resolve-12.svg" alt="git" width="40" height="40"/> </a>
+</p>
+</details>
+
+<br/>
+
+<p align = "left">
+<img src = "https://github-readme-stats.vercel.app/api?username=AbdullahSanoosi&show_icons=true&theme=default&hide_border=true" alt = "AbdullahSanoosi's GitHub stats" height="165" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSanoosi&layout=compact&hide_border=true" alt = "Top Languages" height="165" />
 </p>
