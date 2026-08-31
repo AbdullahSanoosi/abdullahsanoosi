@@ -46,10 +46,3 @@
 <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/davinci-resolve-12.svg" alt="git" width="40" height="40"/> </a>
 </p>
 </details>
-
-<br/>
-
-<p align = "left">
-<img src = "https://github-readme-stats.vercel.app/api?username=AbdullahSanoosi&show_icons=true&theme=default&hide_border=true" alt = "AbdullahSanoosi's GitHub stats" height="165" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahSanoosi&layout=compact&hide_border=true" alt = "Top Languages" height="165" />
-</p>
